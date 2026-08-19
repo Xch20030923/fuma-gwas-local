@@ -1,0 +1,8 @@
+interface:
+  display_name: "FUMA GWAS Local Runner"
+  short_description: "自动识别GWAS并并行运行本地FUMA分析"
+  brand_color: "#0F766E"
+  default_prompt: "Use $fuma-gwas-local to detect, run, and interface one or more GWAS files with the fixed local FUMA pipeline."
+
+policy:
+  allow_implicit_invocation: true
